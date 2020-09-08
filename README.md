@@ -1,10 +1,10 @@
 # FullStackBlogNodeExpress
 
-##Demo
+## Demo
 
 
 
-##Screenshot
-![](CAPTURE.PNG)
+## Screenshot
+![](Capture.PNG)
 
 This project was bootstrapped with Express.Js.
